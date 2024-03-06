@@ -2,3 +2,4 @@
 - estado del proyecto en construccion
 Paar ejecutar el sistema debes poner : 
 -- npm start react ---
+sistema de regiusro 2
